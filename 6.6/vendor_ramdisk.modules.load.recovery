@@ -148,3 +148,9 @@ sec.ko
 sec-rng.ko
 arm_dsu_pmu.ko
 perf_helper.ko
+xiaomi_touch.ko
+lct_tp.ko
+ft8057p_spi.ko
+nt36528_spi.ko
+omnivision_tcm.ko
+icnl9916_spi.ko
